@@ -1,5 +1,6 @@
 # BookSystem
 基于ssm+bootstrsp简单极易上手的小型图书系统
+博客详细讲解地址：http://blog.csdn.net/sureSand/article/details/78377254
 
 #第一步，下载项目或者根据我的博客一步步搭建好项目，然后创建mysql数据库：
 create database booksystem;
